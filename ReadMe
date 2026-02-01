@@ -1,0 +1,30 @@
+# 🌤️ Aplicativo do Tempo
+
+## 📌 Sobre o projeto
+Este projeto é um Aplicativo do Tempo desenvolvido como parte do módulo **AI-SWE-07**.
+O objetivo é permitir que o usuário consulte informações climáticas de forma simples e intuitiva, como temperatura e condições do tempo.
+
+## ⚙️ Funcionalidades
+- Consulta do clima por cidade
+- Exibição de temperatura atual
+- Informações climáticas atualizadas via API
+- Interface simples e fácil de usar
+
+## 🛠️ Tecnologias utilizadas
+- HTML
+- CSS
+- JavaScript
+- API de clima (ex: OpenWeather)
+- Git e GitHub
+
+## 🤖 Uso de Inteligência Artificial
+Durante o desenvolvimento do projeto, utilizei Inteligência Artificial como apoio para:
+- Resolver dúvidas de lógica de programação
+- Identificar e corrigir erros no código
+- Melhorar a organização das funções
+- Apoiar na criação do roteiro de apresentação do projeto
+
+## 🚀 Como executar o projeto
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/vitorialima358-jpg/Clima.git
